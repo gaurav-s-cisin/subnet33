@@ -1,0 +1,7 @@
+bittensor
+torch
+openai
+transformers
+accelerate
+bitsandbytes
+pandas
